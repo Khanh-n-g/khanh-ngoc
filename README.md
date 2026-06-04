@@ -4,7 +4,7 @@
 -膠擅長**觀光/旅遊**
 • ② 目標**觀光好手**
 -图作品**資料視覺化**
-<img width="118" height="400" alt="image" src="https://github.com/user-attachments/assets/02c5c0a1-0ff0-476d-befc-8b6e2ed91ea5" />
+<img width="118" height="300" alt="image" src="https://github.com/user-attachments/assets/02c5c0a1-0ff0-476d-befc-8b6e2ed91ea5" />
 <img width="125" height="147" alt="image" src="https://github.com/user-attachments/assets/fa413fbf-5531-497a-8018-5ee8b081baea" />
 <img width="361" height="204" alt="image" src="https://github.com/user-attachments/assets/caff5f18-16ce-494b-9911-39d76a1b1a8c" />
 <img width="350" height="126" alt="image" src="https://github.com/user-attachments/assets/55f2c304-18ff-4859-8147-114e215cbf72" />
